@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<button onclick="this.innerHTML=Date()"> The  today time is ?</button>
+<button onclick="this.innerHTML=Date()"> now The  today time is ?</button>
 
 </body>
 </html>
